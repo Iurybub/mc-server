@@ -12,6 +12,7 @@ services:
       # Set server type (vs the default of vanilla)
       TYPE: FORGE
       VERSION: "1.16.5"
+      SEED: "-7871659279518394360"
       LEVEL_TYPE: "biomesoplenty"
       FORGEVERSION: "36.1.0"
     volumes:
